@@ -1,1 +1,2 @@
-add sone texts
+add some texts
+add some local tests in test.txt
